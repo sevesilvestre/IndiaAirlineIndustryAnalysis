@@ -6,3 +6,12 @@
 • Designed concise data visualizations (boxplots, histograms, geographical map, etc.) to analyze the distribution of flight prices across all airlines based on different arrival and departure times
 
 • Built a compelling insight-driven narrative to communicate our findings effectively and reduce complexity using Tableau Story.
+
+## Executive Summary Slide
+![](https://github.com/sevesilvestre/IndiaAirlineIndustryAnalysis/blob/main/images/Flight6.png)
+
+## Industry Analysis
+![](https://github.com/sevesilvestre/IndiaAirlineIndustryAnalysis/blob/main/images/Flight2.png)
+
+## Top Performing Airline Analysis
+![](https://github.com/sevesilvestre/IndiaAirlineIndustryAnalysis/blob/main/images/Flight3.png)
